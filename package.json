@@ -13,7 +13,7 @@
     "@types/react-dom": "^16.9.5",
     "@types/react-router": "^3.0.20",
     "@version/react-router-v3": "^1.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "qrcode.react": "^1.0.0",
     "query-string": "^6.10.1",
     "react": "^16.12.0",
